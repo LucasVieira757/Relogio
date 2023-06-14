@@ -12,3 +12,4 @@ JavaScript
 
 
 Pagina principal GitHub
+https://lucasvieira757.github.io/Relogio/
